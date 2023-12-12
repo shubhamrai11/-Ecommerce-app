@@ -64,16 +64,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at : [https://github.com/rahul2870/react-ecommerce-coding-ninja](https://github.com/rahul2870/react-ecommerce-coding-ninja)
+Check out the live demo of the application at : [https://github.com/shubhamrai11/-Ecommerce-app]( https://react-ecommerce-coding-ninja.vercel.app/)
 
-## Authors
-
-- [https://github.com/rahul2870](https://github.com/rahul2870)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- The Meal DB API (https://www.themealdb.com
